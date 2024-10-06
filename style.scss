@@ -1,0 +1,15 @@
+h1{color:#0000ff}
+// @for $i from 1 to 8{
+//     .child#{$i}{
+//         background-color:rgba($color: #faa, $alpha: $i/7);
+//         width : 200px+($i*50);
+
+//     }
+
+    .child1{
+        background-color:rgba($color: rgb(110, 28, 28), $alpha: 1);
+        width : 200px;
+        color:red;
+
+    }
+}
